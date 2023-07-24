@@ -1,1 +1,2 @@
-# kiru1
+# kfcfood
+import database and run the code
